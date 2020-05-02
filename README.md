@@ -1,6 +1,6 @@
 # Cobol is Awesome
 
-Simple simple test app to try the cobol funcionalities
+Simple test game to try the cobol funcionalities
 
 ## Try
 
